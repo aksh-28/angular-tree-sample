@@ -1,0 +1,14 @@
+#left{
+float: left;
+width:30%;
+}
+#right{
+float: right;
+width:70%;
+}
+#button{
+	display:inline;
+	width:50%;
+	float:right;
+	clear:both;
+}
